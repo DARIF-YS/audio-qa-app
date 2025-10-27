@@ -59,5 +59,4 @@ By the end of this project, you will have a fully functional system that combine
 
 ---
 
-###  Author  
-**Yassine DARIF - 2025**
+**Author:** Yassine DARIF - 2025
