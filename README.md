@@ -49,6 +49,4 @@ By the end of this project, you will have a fully functional system that combine
     ```bash
     streamlit run app.py
 
----
-
-**Author:** Yassine DARIF - 2025
+Yassine DARIF [2025]
